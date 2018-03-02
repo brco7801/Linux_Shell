@@ -1,11 +1,13 @@
-#Q1
+#Q1 - Lets Echo
 echo "HELLO"
 
-#Q2
+#Q2 - Looping and Skipping
 for i in {1..99..2}; do echo $i; done
 
-#Q3
+#Q3 - A Personal Echo
 read name; echo "Welcome $name"
 
-#Q4
+#Q4 - Looping with Numbers
 for i in {1..50}; do echo $i; done
+
+
