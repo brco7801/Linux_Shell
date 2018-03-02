@@ -1,0 +1,11 @@
+#Q1
+echo "HELLO"
+
+#Q2
+for i in {1..99..2}; do echo $i; done
+
+#Q3
+read name; echo "Welcome $name"
+
+#Q4
+for i in {1..50}; do echo $i; done
